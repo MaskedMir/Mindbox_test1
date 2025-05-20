@@ -1,0 +1,16 @@
+[project]
+name = "geometry-lib"
+version = "0.1.0"
+description = "Библиотека для вычисления площади геометрических фигур"
+authors = [
+    { name="Beibutov Marat", email="maratbeibutov@ya.ru" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

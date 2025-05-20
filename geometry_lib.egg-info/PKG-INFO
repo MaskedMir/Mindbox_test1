@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: geometry-lib
+Version: 0.1.0
+Summary: Библиотека для вычисления площади геометрических фигур
+Author-email: Beibutov Marat <maratbeibutov@ya.ru>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
